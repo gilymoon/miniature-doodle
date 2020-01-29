@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  font-family: "Montserrat", "Arial", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+
+}
+html {
+  border: 10px solid #000000;
+background: orange;
+}
+
+.Moveright {
+  padding-left: 60%;
+}
+
+.moveabit {
+  padding-left: 5%;
+}
+
+q {
+  padding-left: 40%;
+}
+
+h1 {
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+}
